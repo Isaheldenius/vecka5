@@ -27,6 +27,7 @@ public class Uppgift14 {
         System.out.println("Täljare:  " + brak[0]);
         System.out.println("Nämnare:  " + brak[1]);
         System.out.println("Bråktalet: " + brak[0] / brak[1]);
+        System.out.println();
 
     }
 }
